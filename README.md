@@ -1,2 +1,0 @@
-# study
-database for study
